@@ -6,8 +6,6 @@ Actividades de la UD31 JavaScript II
 <br>
 ![image](https://user-images.githubusercontent.com/68342939/172027177-43dd2f0b-3e9a-41f8-a3ca-374affc33c55.png)
 
-## Ejercicio 12
-
 ## Ejercicio 13
 ![image](https://user-images.githubusercontent.com/68342939/172027312-d90dd5d0-8dbd-4844-b4d0-3f33443a3160.png)
 <br>
