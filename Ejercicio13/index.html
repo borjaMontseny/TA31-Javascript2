@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        table, th, td {
+          border: 1px solid;
+        }
+        </style>
+    <title>Ej 13 JS</title>
+</head>
+<body>
+    <h2>Ejercicio 13</h2>
+    
+<p id="primerParrafo">Primer Párrafo</p>
+<br>
+<table>
+    <tr>
+        <td><button onclick="myFunction1()">Segundo párrafo</button></td>
+    </tr>
+    <tr>
+        <td><button onclick="myFunction2()">Tercer párrafo</button></td>
+    </tr>
+</table>
+	
+<script>
+function myFunction1() {
+  document.getElementById("primerParrafo").innerHTML = "Segundo párrafo";
+}
+
+function myFunction2() {
+  document.getElementById("primerParrafo").innerHTML = "Tercer párrafo";
+}
+
+</script>
+</body>
+</html>
